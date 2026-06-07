@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "nahan-core",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "6bd58b3c-a363-4dbe-b9b3-b02a543880c2",
+			"database_name": "iot_db"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
